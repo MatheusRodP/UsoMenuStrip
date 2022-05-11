@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppExMenu", "AppExMenu.csproj", "{23897CB5-A559-47D8-BA6C-944C9FA8F0EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23897CB5-A559-47D8-BA6C-944C9FA8F0EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23897CB5-A559-47D8-BA6C-944C9FA8F0EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23897CB5-A559-47D8-BA6C-944C9FA8F0EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23897CB5-A559-47D8-BA6C-944C9FA8F0EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03C5E277-8B84-4319-8738-A2F145C56940}
+	EndGlobalSection
+EndGlobal
